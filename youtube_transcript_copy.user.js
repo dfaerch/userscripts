@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Transcript Copy
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Copy YouTube video transcripts with timestamps
 // @author       You
 // @match        https://www.youtube.com/watch*
